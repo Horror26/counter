@@ -1,0 +1,19 @@
+
+body {
+    background: #5bc8a4;
+    background-position: center;
+}
+
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 20px;
+    height: 50%;
+    width: 40%;
+    border-radius: 61px;
+    box-shadow: inset 28px 28px 56px #4daa8b,inset -28px -28px 56px #69e6bd;
+}
